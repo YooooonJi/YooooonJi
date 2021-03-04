@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Good%20to%20use%20with%20other%20readme&fontSize=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Yoonji%20Kim%20&fontSize=40&animation=twinkling)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YooooonJi)](https://github.com/anuraghazra/github-readme-stats)
 <!--
