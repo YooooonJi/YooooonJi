@@ -1,6 +1,6 @@
 <div align=center>
 	
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Yoonji%20Kim%20&fontSize=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=#F5BCA9&text=Yoonji%20Kim%20&fontSize=40&animation=twinkling)
  
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/YooooonJi/YooooonJi.git)](https://hits.seeyoufarm.com) 
