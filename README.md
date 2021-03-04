@@ -7,8 +7,10 @@
 	
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YooooonJi)](https://github.com/anuraghazra/github-readme-stats)
-✨ YOONJI KIM ✨  
+✨ YOONJI KIM ✨
+
 🌱 I’m currently learning coding in SSAFY
+
 📫 How to reach me: dooly7183@gmail.com
 😄 
 🤔
