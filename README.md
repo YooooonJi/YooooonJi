@@ -12,8 +12,7 @@
 
 🌱 Multimedia Engineering
 
-📫 How to reach me: dooly7183@gmail.com
-
+📫
 😄 
 🤔
 💬
