@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Yoonji%20Kim%20&fontSize=40&animation=twinkling)
  
 	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/YooooonJi/YooooonJi.git)](https://hits.seeyoufarm.com) 
 	
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YooooonJi)](https://github.com/anuraghazra/github-readme-stats)
